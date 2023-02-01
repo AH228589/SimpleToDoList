@@ -2,6 +2,10 @@
 
 A simple to-do web app built with HTML, CSS, and JavaScript.
 
+## Screenshot
+
+![Simple To-Do Web App](example.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
